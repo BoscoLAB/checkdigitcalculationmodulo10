@@ -1,4 +1,4 @@
-# checkdigitcalculationmodulo10
+# About
 Check digit calculation according to modulo 10 in C# for .net 4.7 
 
 The code is simple and can be used anywhere.
