@@ -1,0 +1,11 @@
+C:\Users\rudolf.schuba\source\repos\Berechnung Prüfziffer\Berechnung Prüfziffer\bin\Debug\Berechnung Prüfziffer.exe.config
+C:\Users\rudolf.schuba\source\repos\Berechnung Prüfziffer\Berechnung Prüfziffer\bin\Debug\Berechnung Prüfziffer.exe
+C:\Users\rudolf.schuba\source\repos\Berechnung Prüfziffer\Berechnung Prüfziffer\bin\Debug\Berechnung Prüfziffer.pdb
+C:\Users\rudolf.schuba\source\repos\Berechnung Prüfziffer\Berechnung Prüfziffer\obj\Debug\Berechnung Prüfziffer.csproj.AssemblyReference.cache
+C:\Users\rudolf.schuba\source\repos\Berechnung Prüfziffer\Berechnung Prüfziffer\obj\Debug\Berechnung Prüfziffer.csproj.SuggestedBindingRedirects.cache
+C:\Users\rudolf.schuba\source\repos\Berechnung Prüfziffer\Berechnung Prüfziffer\obj\Debug\Berechnung_Prüfziffer.Properties.Resources.resources
+C:\Users\rudolf.schuba\source\repos\Berechnung Prüfziffer\Berechnung Prüfziffer\obj\Debug\Berechnung_Prüfziffer.Prüfziffer.resources
+C:\Users\rudolf.schuba\source\repos\Berechnung Prüfziffer\Berechnung Prüfziffer\obj\Debug\Berechnung Prüfziffer.csproj.GenerateResource.cache
+C:\Users\rudolf.schuba\source\repos\Berechnung Prüfziffer\Berechnung Prüfziffer\obj\Debug\Berechnung Prüfziffer.csproj.CoreCompileInputs.cache
+C:\Users\rudolf.schuba\source\repos\Berechnung Prüfziffer\Berechnung Prüfziffer\obj\Debug\Berechnung Prüfziffer.exe
+C:\Users\rudolf.schuba\source\repos\Berechnung Prüfziffer\Berechnung Prüfziffer\obj\Debug\Berechnung Prüfziffer.pdb
